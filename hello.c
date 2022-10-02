@@ -6,7 +6,6 @@ void start()
 }
 
 /*
-
 OUTPUT :
 hello !
 */
