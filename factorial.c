@@ -14,9 +14,7 @@ int main()
 }
 
 
-/*(in linux terminal)
-for compiling : cc factorial.c
-for execution : ./a.out
+/*
 OUTPUT :
 Enter the number :5
 The factorial of the given number : 120
