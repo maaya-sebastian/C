@@ -18,9 +18,7 @@ int main()
   return 0;
 }
 
-/*(in linux terminal)
-for compilation : cc fib.c
-for execution : ./a.out
+/*
 OUTPUT :
 Enter the number of elements: 6
 Fibonacci Series:
