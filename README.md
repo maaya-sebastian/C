@@ -8,4 +8,5 @@ COMPILATION & EXECUTION :
 1. (in linux terminal) :
 
 for compilation : cc file_name.c
+
 for execution : ./a.out
