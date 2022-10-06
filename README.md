@@ -5,6 +5,7 @@ Here are the most basic C programs. If you want to brush up the basics in C then
 
 COMPILATION & EXECUTION :
 
-1. (in linux terminal)
+1. (in linux terminal) :
+
 for compilation : cc file_name.c
 for execution : ./a.out
